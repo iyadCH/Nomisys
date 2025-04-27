@@ -2,6 +2,8 @@
 
 ---
 
+![logo](fichier/logo.png)
+
 ## 📜 Présentation du projet
 
 Nomisys est un système de contrôle d’accès combinant plusieurs moyens d’authentification :
