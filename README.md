@@ -124,10 +124,3 @@ Nomisys/
 ---
 
 
-
----
-
-# ✅ Prêt pour GitHub !
-
----
-
