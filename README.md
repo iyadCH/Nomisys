@@ -123,11 +123,7 @@ Nomisys/
 
 ---
 
-## 📦 Téléchargement Complet
 
-**👉 [Télécharger le projet GitHub prêt ici (.zip)](sandbox:/mnt/data/Nomisys_GitHub_Template.zip)**
-
-(Contient structure + fichiers vides et prêts à remplir !)
 
 ---
 
